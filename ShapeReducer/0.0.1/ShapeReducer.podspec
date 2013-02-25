@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.source_files = 'ShapeReducer.{h,m}'
   s.framework = 'Foundation'
 
-  s.requires_arc = false
+  s.requires_arc = true
 end
