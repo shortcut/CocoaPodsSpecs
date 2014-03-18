@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'SVGKit'
-  s.version  = '0.0.2'
+  s.version  = '1.1.0'
   s.license  = 'MIT'
   s.summary  = 'A Cocoa framework for rendering SVG files as Core Animation layers.'
   s.homepage = 'https://github.com/SVGKit/SVGKit'
