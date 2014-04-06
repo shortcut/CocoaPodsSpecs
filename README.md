@@ -1,6 +1,3 @@
-CocoaPodsSpecs
-==============
-
 ##Howto
  1. Install CocoaPods (http://cocoapods.org)
  
