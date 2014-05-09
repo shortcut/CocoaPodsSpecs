@@ -57,5 +57,5 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.xcconfig = { 'OTHER_LDFLAGS' => '-L "$PODS_ROOT"/../../lib/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)'}
+  s.xcconfig = { 'OTHER_LDFLAGS' => '-L "$PODS_ROOT"/MediaShuttle/CocoaPods/MediaShuttle/lib/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)'}
 end
