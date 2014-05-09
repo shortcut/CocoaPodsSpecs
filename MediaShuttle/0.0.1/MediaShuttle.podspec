@@ -54,6 +54,7 @@ Pod::Spec.new do |s|
   s.preserve_paths = "CocoaPods/MediaShuttle/lib/*"
 
   s.libraries = "resolv", "z", "tecl-objc", "c++", "stdc++"
+  s.framework = "AssetLibrary"
 
   s.requires_arc = true
 
